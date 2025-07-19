@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Mandi",
+    "deadline": "2025-04-20",
+    "done": true,
+    "description": "MANDI WOE"
+  },
+  {
+    "title": "Pemrograman Lanjut",
+    "deadline": "2025-04-21",
+    "done": true,
+    "description": "Edit bagian Flow Chartnya"
+  },
+  {
+    "title": "Structure Data",
+    "deadline": "2025-04-21",
+    "done": true,
+    "description": "Array dan Pinter"
+  },
+  {
+    "title": "Cyber Securiy",
+    "deadline": "2025-04-23",
+    "done": true,
+    "description": "Buat Paper Tentang Blockchain"
+  },
+  {
+    "title": "Pancasila",
+    "deadline": "2025-04-25",
+    "done": false,
+    "description": "Buat PPT tentang Etika gitulahh"
+  },
+  {
+    "title": "Kewarganegaraan",
+    "deadline": "2025-04-25",
+    "done": true,
+    "description": "Buat Makalah tentang Bab 5"
+  },
+  {
+    "title": "Kewarganegaraan",
+    "deadline": "2025-04-25",
+    "done": true,
+    "description": "buat makalah tentang TB1 "
+  },
+  {
+    "title": "Matematika Distrit",
+    "deadline": "2025-04-20",
+    "done": false,
+    "description": "Tugas Kelompok"
+  }
+]
